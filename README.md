@@ -14,4 +14,6 @@ Internet Relay Chat is a great resource for connecting with knowledgeable hacker
 
 # References:
 
-http://www.ircbeginner.com/ircinfo/ircc-commands.html
+* http://www.ircbeginner.com/ircinfo/ircc-commands.html
+
+* http://quadpoint.org/articles/irssi/
